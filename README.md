@@ -38,7 +38,7 @@ S'entraîner avec un vrai retour sur les erreurs
 
 Travailler l'intégration HTML/CSS/JS dans un projet interactif
 
-📫 Me contacter
+## 📫 Me contacter
 📧 ibrahimacisse.dev@gmail.com
 
 🔗 [Mon profil GitHub](https://github.com/ibrahimaCisse10)
