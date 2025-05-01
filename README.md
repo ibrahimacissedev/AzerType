@@ -1,4 +1,4 @@
-# ⌨️ L'application pour écrire plus vite: AzerType !
+# ⌨️ Appli d'Entraînement au Clavier: AzerType 
 
 Une application web pour s'entraîner à taper plus vite au clavier. L'utilisateur peut choisir entre des **mots** ou des **phrases** à taper, puis l'application lui propose du texte à recopier. À la fin, un **score est généré** en fonction des fautes, et l'utilisateur peut **partager son score par mail**.
 
