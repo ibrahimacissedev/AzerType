@@ -4,7 +4,7 @@ Une application web pour s'entraîner à taper plus vite au clavier. L'utilisate
 
 ## 🌐 Aperçu
 
-🔗 [Voir la démo en ligne](https://ibrahimacisse10.github.io/AzerType/)
+🔗 [Voir la démo en ligne](https://ibrahimacissedev.github.io/AzerType/)
 
 ![aperçu de l'application](image.png)
 
