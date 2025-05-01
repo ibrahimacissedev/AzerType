@@ -4,7 +4,7 @@ Une application web pour s'entraîner à taper plus vite au clavier. L'utilisate
 
 ## 🌐 Aperçu
 
-🔗 [Voir la démo en ligne](https://ibrahimaCisse10.github.io/nom-de-ton-projet/) *(remplace par le bon lien)*
+🔗 [Voir la démo en ligne](https://ibrahimaCisse10.github.io/nom-de-ton-projet/) 
 
 ![aperçu de l'application](image.png)
 
