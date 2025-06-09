@@ -25,12 +25,6 @@ Une application web pour s'entraîner à taper plus vite au clavier. L'utilisate
 - Option de **partager son score par email**
 - Interface simple et responsive
 
-## 📦 Installation
-
-1. Clone le dépôt :
-   ```bash
-   git clone https://github.com/ibrahimaCisse10/AzerType.git
-
 ## 🎯 Objectifs du projet
 
 Améliorer la vitesse et la précision au clavier
@@ -38,6 +32,12 @@ Améliorer la vitesse et la précision au clavier
 S'entraîner avec un vrai retour sur les erreurs
 
 Travailler l'intégration HTML/CSS/JS dans un projet interactif
+
+## 📦 Installation
+
+1. Clone le dépôt :
+   ```bash
+   git clone https://github.com/ibrahimaCisse10/AzerType.git
 
 ## 📫 Me contacter
 📧 ibrahimacisse.dev@gmail.com
