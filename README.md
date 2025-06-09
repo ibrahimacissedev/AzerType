@@ -31,7 +31,8 @@ Une application web pour s'entraîner à taper plus vite au clavier. L'utilisate
    ```bash
    git clone https://github.com/ibrahimaCisse10/AzerType.git
 
-   🎯 Objectifs du projet
+##🎯 Objectifs du projet
+
 Améliorer la vitesse et la précision au clavier
 
 S'entraîner avec un vrai retour sur les erreurs
